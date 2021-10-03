@@ -1,4 +1,4 @@
-<h1> Olá, eu sou o Pedro!
+<h1> Olá, eu sou o Pedro! </h1> </br> </br>
 
   <div align="center">
   <a href="https://github.com/pedrorreiro">
